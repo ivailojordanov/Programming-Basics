@@ -1,0 +1,2 @@
+C# is a strong Object Oriented programming language that is mostly built on the .NET framework.C# Follows libraries Of .net Framework.
+NET is an application development framework - it contains numerous libraries containing a range of functionality..NET comprises  of many languages(C#, VB.NET, C++/CLI,...),which compiles source code .

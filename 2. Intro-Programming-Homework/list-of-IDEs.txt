@@ -1,0 +1,7 @@
+Oracle Netbeans 7-Used for java mostly,althought it supports also Pything,C/C++ ,ruby,HTML.You can add additional libraries also.
+
+Eclipse-Similar to Netbeans.You can use Eclipse on Linux so you are not bound by Microsoft`s OS.
+
+Code::Blocks-Lightweight in size. It is based on a self-developed plugin framework allowing unlimited extensibility. Most of its functionality is already provided by plugins.
+
+Aptana Studio 3-PHP, Ruby on Rails, and Python are supported in Aptana.It`s for web and scripting languages.
